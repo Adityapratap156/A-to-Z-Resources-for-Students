@@ -55,3 +55,11 @@ A tip before watching all the resources : Bitcoin!=Blockchain, that means blockc
 + Metamask Chrome Extension - to live track transactions on the Ethereum test network
   [Metamask Website](https://metamask.io/)
 + Sublime text package highlighting for solidity language
+
+## Application of blockchain
+link:-https://blockgeeks.com/guides/blockchain-applications/
+
+
+
+
+
